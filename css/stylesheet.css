@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('css/stylesheet.css/Roboto-Bold.eot');
+    src: local('css/stylesheet.css/Roboto Bold'), local('Roboto-Bold'),
+        url('css/stylesheet.css/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+        url('css/stylesheet.css/Roboto-Bold.woff') format('woff'),
+        url('css/stylesheet.css/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('css/stylesheet.css/Roboto-Regular.eot');
+    src: local('css/stylesheet.css/Roboto'), local('Roboto-Regular'),
+        url('css/stylesheet.css/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('css/stylesheet.css/Roboto-Regular.woff') format('woff'),
+        url('css/stylesheet.css/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('css/stylesheet.css/Roboto-BoldItalic.eot');
+    src: local('css/stylesheet.css/Roboto Bold Italic'), local('Roboto-BoldItalic'),
+        url('css/stylesheet.css/Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('css/stylesheet.css/Roboto-BoldItalic.woff') format('woff'),
+        url('css/stylesheet.css/Roboto-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('css/stylesheet.css/Roboto-Light.eot');
+    src: local('css/stylesheet.css/Roboto Light'), local('Roboto-Light'),
+        url('css/stylesheet.css/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('css/stylesheet.css/Roboto-Light.woff') format('woff'),
+        url('css/stylesheet.css/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('css/stylesheet.css/Roboto-Thin.eot');
+    src: local('css/stylesheet.css/Roboto Thin'), local('Roboto-Thin'),
+        url('css/stylesheet.css/Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+        url('css/stylesheet.css/Roboto-Thin.woff') format('woff'),
+        url('css/stylesheet.css/Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
